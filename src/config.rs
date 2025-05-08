@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["etojjfhn.ap-northeast-1.clawcloudrun.com"];
-pub const RS_PUB_KEY: &str = "OeVuKk5nlHiXp+APNn0Y3pC1Iwpwn44JGqrQCsWqmBw=";
+pub const RS_PUB_KEY: &str = "mVr+gtqdHFG8dy3PpdKyIB2mYdZUKXOaBIaVq2rVkeg=";
 
 pub const RENDEZVOUS_PORT: i32 = 32417;
 pub const RELAY_PORT: i32 = 39681;
